@@ -1,0 +1,3 @@
+﻿  text_adventure.cpp
+C:\Users\Aleksandar\Desktop\CPP_PROJECTS\IV\09_LOOPS_CHALLENGE_PROJECT\text_adventure\text_adventure.cpp(8,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  text_adventure.vcxproj -> C:\Users\Aleksandar\Desktop\CPP_PROJECTS\IV\09_LOOPS_CHALLENGE_PROJECT\text_adventure\x64\Debug\text_adventure.exe
